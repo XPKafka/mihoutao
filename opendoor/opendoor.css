@@ -1,0 +1,84 @@
+.body{
+  background-color: cadetblue;
+  margin: 0px;
+}
+.door-row{
+  text-align: center;
+  margin-top: 30px;
+}
+.door-frame{
+  width: 120px;
+  height: 227px;
+  cursor: pointer;
+  padding: 10px;
+}
+.header{
+  background-color: aquamarine;
+  text-align: center;
+}
+.title-row{
+  margin-top: 42px;
+  margin-bottom: 21px;
+  text-align: center;
+}
+.instructions-title{
+  display: inline;
+  font-size: 24px;
+  color: #00ffff;
+  font-family: 'Work Sans';
+}
+.instructions-row{
+  margin: auto;
+  width: 400px;
+}
+.instructions-number{
+  padding-right: 25px;
+  font-family: "Andale Mono";
+  font-size: 36px;
+  color: #00ffff;
+}
+.instructions-text{
+  padding: auto;
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'Work Sans';
+}
+.start-row{
+  margin: 30px auto;
+  width: 120px ;
+  height: 40px;
+  font-family: 'Work Sans';
+  background-color: indianred;
+  padding: 10px;
+  font-size: 18px;
+  text-align: center;
+  color: #010165;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.score-row{
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}
+.score-text{
+  padding: 24px;
+  display: inline;
+  font-family: 'Work Sans';
+  font-size: 12px;
+  letter-spacing: 1.1px;
+  color: #ffffff;
+}
+.score-box{
+  margin-top: 9px;
+  display: inline-block;
+  padding: 8px;
+  margin: 18px;
+  margin-right: 29px;
+  width: 59px;
+  background-color: indianred;
+  font-family: 'Work Sans';
+  font-size: 45px;
+  color: white;
+  border-radius: 5px;
+}
